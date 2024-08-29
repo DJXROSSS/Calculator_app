@@ -1,4 +1,4 @@
-package com.example.calculator_app
+package com.example.calculator_app.SimpleComponents
 
 import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.size
