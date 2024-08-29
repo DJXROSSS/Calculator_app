@@ -16,6 +16,7 @@ import com.example.calculator_app.ComplexComponents.CompoudRow_1
 import com.example.calculator_app.ComplexComponents.FunctionRow
 import com.example.calculator_app.ComplexComponents.TopRow
 
+
 @Preview
 @Composable
 fun MainScreen(){
